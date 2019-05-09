@@ -3,15 +3,16 @@ function setup() {
     createCanvas(400, 400)
 }
 
-const vector = {
-    x: 200,
-    y: 200
-}
-
 // No para de dibujar
 function draw() {
     background(0)
 
+    // Centrar con x=200 y=200
+    const vector = {
+        x: mouseX,
+        y: mouseY
+    }
+    
     // Cast rayos
     for (let i = 1; i < 400; i++) {
         for (let k = 1; k < 500; k += 75) {
