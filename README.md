@@ -1,6 +1,8 @@
 # Geometry
 Jugando con la librería p5js - geometría
 
+Ray casting: https://github.com/AlbertLorenzo/ray-casting
+
 [alpha=0.025]
 [alpha=0.075]
 [alpha=0.250]
