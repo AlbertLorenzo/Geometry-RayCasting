@@ -1,5 +1,5 @@
-# Geometry
-Jugando con la librería p5js - geometría
+# GeometryL
+ibrería p5js - geometría
 
 Ray casting: https://github.com/AlbertLorenzo/ray-casting
 
